@@ -1,0 +1,160 @@
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :332920
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :2378
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :2378
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :5945
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :3567
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :4756
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :2378
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :3567
+
+        article :       chambre complet
+        prix unitaire : 11890DT
+        quantiter :TESLA
+        prix totale :23780
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :2378
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :2378
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :2378
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :BMW
+        prix totale :12890
+
+        article :       chambre complet
+        prix unitaire : 11890DT
+        quantiter :TESLA
+        prix totale :11890
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :1189
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :1189
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :TESLA
+        prix totale :1189
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Chevrelot
+        prix totale :128740
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Honda
+        prix totale :73480
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Audi
+        prix totale :85964
+
+        article :       chambre complet
+        prix unitaire : 11890DT
+        quantiter :TESLA
+        prix totale :35670
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Nissan
+        prix totale :55216
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Nissan
+        prix totale :0
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Nissan
+        prix totale :55216
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Chevrelot
+        prix totale :321850
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Honda
+        prix totale :73480
+
+        article :       chambre complet
+        prix unitaire : 11890DT
+        quantiter :TESLA
+        prix totale :23780
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Chevrelot
+        prix totale :257480
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Audi
+        prix totale :257892
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Audi
+        prix totale :257892
+
+        article :       chambre complet
+        prix unitaire : 1189DT
+        quantiter :Toyota
+        prix totale :186312
+
+        article :      Voiture
+        prix unitaire : 11890DT
+        quantiter :TESLA
+        prix totale :11890
